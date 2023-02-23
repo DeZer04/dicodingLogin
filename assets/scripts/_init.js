@@ -13,10 +13,10 @@ function showPopUp() {
 
 // pindah ke halaman home
 function goToHome() {
-  location.href = './home.html';
+  location.href = '../home.html';
 }
 
 // pindah ke halaman login
 function goToLogin() {
-  location.href = './index.html';
+  location.href = '../index.html';
 }
